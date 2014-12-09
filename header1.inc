@@ -2,7 +2,7 @@
 		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-	<title>Joint Effect of Multiple Genetic Variations</title>
+	<title>Combined Effect of Multiple Genetic Variants</title>
 
 	<link rel="stylesheet" type="text/css" href="./style.css">
 	<!--<link rel="stylesheet" type="text/css" href="./jquery-ui-1.11.2/jquery-ui.css">
@@ -14,16 +14,24 @@
 
 </head>
 <body>
-	<h1 id="top">Joint Effect of Multiple Genetic Variations</h1>
+<div id="header">
+	<h1>Combined Effect of Multiple Genetic Variants</h1>
+</div>
 	<div id="menu">
 		<h1>
-			<a href="http://bioinformatics.cs.vt.edu/~treiter/index.php">Home</a>
+			<a href="index.php">Home</a>
 		</h1>
 		<h1>
-			<a href="http://bioinformatics.cs.vt.edu/~treiter/download.php">Downloads</a>
+			<a href="download.php">Downloads</a>
 		</h1>
 		<h1>
-			<a href="http://bioinformatics.cs.vt.edu/~treiter/search.php">Search</a>
+			<a href="start.php">Get Started</a>
+		</h1>
+		<h1>
+			<a href="search.php">Search</a>
+		</h1>
+		<h1>
+			<a href="contact.php">Contact</a>
 		</h1>
 	</div>
 
